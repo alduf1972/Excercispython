@@ -1,0 +1,20 @@
+Entrez le prix de votre article sans taxes :
+100
+Entrez la réduction appliquée à votre article en euros :
+10
+Vous avez acheté un article a 100.0sans taxes. Il y a une réduction de 10.0brute dessus
+
+Prix en euro :
+        -Sans TVA : 100.0
+        -Avec TVA : 121.0
+        -Après réduction : 111.0
+
+Prix en Dollars :
+        -Sans TVA : 112.99999999999999
+        -Avec TVA : 121.47499999999998
+        -Après réduction : 110.17499999999998
+
+Prix en Tugrik :
+        -Sans TVA : 339500.0
+        -Avec TVA : 373450.0
+        -Après réduction : 339500.0
